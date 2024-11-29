@@ -168,7 +168,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # City Input
-city_name = st.text_input("Enter City Name", "Chennai")
+city_name = st.text_input("Enter City Name", "Ottawa")
 
 if city_name:
     current_weather = get_current_weather(city_name)
