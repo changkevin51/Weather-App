@@ -14,8 +14,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="collapsed"
 )
-
-API_KEY = "82005d27a116c2880c8f0fcb866998a0"
+API_KEY = st.secrets["api_key"]
 BASE_URL = "http://api.openweathermap.org/data/2.5"
 
 # CSS Styling
