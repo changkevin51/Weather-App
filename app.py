@@ -48,7 +48,7 @@ st.markdown("""
 
         /* Current Weather */
         .current-weather {
-            background-color: #ebebeb;
+            background-color: #cfcfcf;
             border-radius: 10px;
             padding: 30px;
             margin: 20px auto;
