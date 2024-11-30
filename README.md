@@ -1,4 +1,4 @@
-# [Trivia Game](https://currentweather.streamlit.app/)
+# [Weather App](https://currentweather.streamlit.app/)
 
 **LINK TO APP: [currentweather.streamlit.app](https://currentweather.streamlit.app/)**
 
@@ -27,3 +27,6 @@ streamlit run app.py
 ## Main Page
 ![image](https://github.com/user-attachments/assets/d13f9305-4754-4a88-bbdb-f93e2b9bafbd)
 ![image](https://github.com/user-attachments/assets/829699b7-7acd-4eb2-ace3-4f7774941a12)
+
+## Acknowledgements
+- Weather data provided by [OpenWeather API](https://openweathermap.org/api)
