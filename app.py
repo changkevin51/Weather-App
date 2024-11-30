@@ -223,6 +223,7 @@ if city_name:
             forecast_df = pd.DataFrame(forecast)
 
             # Temperature Forecast
+            st.header("")
             st.subheader("📈 Temperature Forecast")
             temp_fig = go.Figure()
             temp_fig.add_trace(go.Scatter(
